@@ -1,0 +1,570 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\views\\courses\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\views\\courses\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\views\\courses\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\views\\courses\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\views\\courses\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\views\\courses\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\views\\courses\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\views\\courses\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\views\\courses\\_courseformpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\views\\courses\\_courseformpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\services\\icoursemanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\services\\icoursemanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\services\\coursemanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\services\\coursemanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\models\\thankyouviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\models\\thankyouviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\models\\managecourseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\models\\managecourseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\models\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\models\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\models\\coursesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\models\\coursesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\models\\confirmationresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\models\\confirmationresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\models\\abstractbaseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\models\\abstractbaseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\entities\\coursemanagerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\entities\\coursemanagerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\controllers\\abstractbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\controllers\\abstractbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\views\\courses\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\views\\courses\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Migrations\\20241102215947_InitalState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CourseManager_Maharshi_Pandya\\Migrations\\20241102215947_InitalState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Migrations\\20241102215414_InitalState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CourseManager_Maharshi_Pandya\\Migrations\\20241102215414_InitalState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89EDD326-C04E-41AB-902B-019EB8FF805A}|CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj|solutionrelative:coursemanager_maharshi_pandya\\coursemanager_maharshi_pandya.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T22:05:43.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThankYou.cshtml",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\Courses\\ThankYou.cshtml",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Views\\Courses\\ThankYou.cshtml",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\Courses\\ThankYou.cshtml",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Views\\Courses\\ThankYou.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T07:58:18.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T00:27:53.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Entities\\Course.cs",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:09:00.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Entities\\Student.cs",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Entities\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:09:23.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Manage.cshtml",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\Courses\\Manage.cshtml",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Views\\Courses\\Manage.cshtml",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\Courses\\Manage.cshtml",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Views\\Courses\\Manage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T22:35:38.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\Courses\\All.cshtml",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Views\\Courses\\All.cshtml",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\Courses\\All.cshtml",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Views\\Courses\\All.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T22:34:43.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T03:46:06.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\Courses\\Add.cshtml",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Views\\Courses\\Add.cshtml",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\Courses\\Add.cshtml",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Views\\Courses\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T22:35:02.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_CourseFormPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\Courses\\_CourseFormPartial.cshtml",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Views\\Courses\\_CourseFormPartial.cshtml",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\Courses\\_CourseFormPartial.cshtml",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Views\\Courses\\_CourseFormPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T00:50:25.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICourseManagerService.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Services\\ICourseManagerService.cs",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Services\\ICourseManagerService.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Services\\ICourseManagerService.cs",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Services\\ICourseManagerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T22:46:15.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseManagerService.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Services\\CourseManagerService.cs",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Services\\CourseManagerService.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Services\\CourseManagerService.cs",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Services\\CourseManagerService.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAcwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T22:07:19.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ThankYouViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Models\\ThankYouViewModel.cs",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Models\\ThankYouViewModel.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Models\\ThankYouViewModel.cs",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Models\\ThankYouViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T00:36:08.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageCourseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Models\\ManageCourseViewModel.cs",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Models\\ManageCourseViewModel.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Models\\ManageCourseViewModel.cs",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Models\\ManageCourseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T02:23:54.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T02:23:50.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Models\\CourseViewModel.cs",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Models\\CourseViewModel.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Models\\CourseViewModel.cs",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Models\\CourseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T02:23:49.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConfirmationResponseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Models\\ConfirmationResponseViewModel.cs",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Models\\ConfirmationResponseViewModel.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Models\\ConfirmationResponseViewModel.cs",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Models\\ConfirmationResponseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T02:57:33.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Models\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Models\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Models\\HomeViewModel.cs",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Models\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T03:40:16.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AbstractBaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Models\\AbstractBaseViewModel.cs",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Models\\AbstractBaseViewModel.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Models\\AbstractBaseViewModel.cs",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Models\\AbstractBaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T03:36:16.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CoursesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Models\\CoursesViewModel.cs",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Models\\CoursesViewModel.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Models\\CoursesViewModel.cs",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Models\\CoursesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T22:23:43.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CourseManagerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Entities\\CourseManagerDbContext.cs",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Entities\\CourseManagerDbContext.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Entities\\CourseManagerDbContext.cs",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Entities\\CourseManagerDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:31:40.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AbstractBaseController.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Controllers\\AbstractBaseController.cs",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Controllers\\AbstractBaseController.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Controllers\\AbstractBaseController.cs",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Controllers\\AbstractBaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:42:03.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Views\\Courses\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Views\\Courses\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T22:35:18.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\Courses\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Views\\Courses\\Confirmation.cshtml",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\Courses\\Confirmation.cshtml",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Views\\Courses\\Confirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T02:53:15.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T03:42:17.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Program.cs",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Program.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Program.cs",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:41:29.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T22:36:27.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T22:06:22.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T00:32:30.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241102215947_InitalState.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Migrations\\20241102215947_InitalState.cs",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Migrations\\20241102215947_InitalState.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Migrations\\20241102215947_InitalState.cs",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Migrations\\20241102215947_InitalState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:59:47.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241102215414_InitalState.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Migrations\\20241102215414_InitalState.cs",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\Migrations\\20241102215414_InitalState.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\Migrations\\20241102215414_InitalState.cs",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\Migrations\\20241102215414_InitalState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:54:14.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CourseManager_Maharshi_Pandya.csproj",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj",
+              "RelativeDocumentMoniker": "CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj",
+              "RelativeToolTip": "CourseManager_Maharshi_Pandya\\CourseManager_Maharshi_Pandya.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-02T21:08:21.501Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

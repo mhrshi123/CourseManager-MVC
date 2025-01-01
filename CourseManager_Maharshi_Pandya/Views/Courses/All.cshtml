@@ -1,0 +1,58 @@
+﻿@model CoursesViewModel
+
+@{
+    ViewBag.Title = "All Courses";
+}
+
+<h1>@ViewBag.Title</h1>
+
+<p>
+    <a asp-action="AddCourse">Add a new course</a>
+</p>
+
+
+@if (Model.Courses != null && Model.Courses.Count > 0)
+{
+
+
+    <table class="table table-dark table-hover">
+        <thead>
+            <tr>
+                <th>Course Name</th>
+                <th>Instructor</th>
+                <th>Start Date</th>
+                <th>Room #</th>
+                <th># of students</th>
+                <th>Actions</th>
+            </tr>
+
+        </thead>
+
+        <tbody>
+
+            @foreach (var course in Model.Courses)
+            {
+                <tr>
+                    <td>@course.CourseName</td>
+                    <td>@course.InstructorName</td>
+                    <td>@course.StartDate</td>
+                    <td>@course.RoomNumber</td>
+                    <td>@course.Students.Count</td>
+                    <td>
+                        <a asp-action="EditCourse" role="button" class="btn btn-primary" asp-route-courseId="@course.CourseID">Edit</a> |
+                        <a asp-action="ManageCourse" role="button" class="btn btn-outline-secondary" asp-route-courseId="@course.CourseID">Manage</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+}
+else
+{
+    <div class="alert aler-warning" role="alert">
+        No coures foun
+    </div>
+}
+
+

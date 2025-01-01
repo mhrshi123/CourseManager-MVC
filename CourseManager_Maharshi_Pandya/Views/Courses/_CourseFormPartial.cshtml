@@ -1,0 +1,27 @@
+﻿@model Course
+
+<div asp-validation-summary="All" class="text-danger"></div>
+    
+<div class="mb-3">
+    <label class="form-label" asp-for="CourseName">Course name: </label>
+    <span asp-validation-for="CourseName" class="text-danger"></span>
+    <input class="form-control" asp-for="CourseName" name="Course.CourseName" />
+</div>
+
+<div class="mb-3">
+    <label class="form-label" asp-for="InstructorName">Instructor name: </label>
+    <span asp-validation-for="InstructorName" class="text-danger"></span>
+    <input class="form-control" asp-for="InstructorName" name="Course.InstructorName" />
+</div>
+
+<div class="mb-3">
+    <label class="form-label" asp-for="StartDate">Start date:</label>
+    <span asp-validation-for="StartDate" class="text-danger"></span>
+    <input class="form-control" type="date" asp-for="StartDate" name="Course.StartDate" />
+</div>
+
+<div class="mb-3">
+    <label class="form-label" asp-for="RoomNumber">Room number</label>
+    <span asp-validation-for="RoomNumber" class="text-danger"></span>
+    <input class="form-control" asp-for="RoomNumber" name="Course.RoomNumber" />
+</div>
