@@ -1,4 +1,4 @@
-# Course Manager – Maharshi Pandya
+# Course Manager 
 
 A .NET 8.0-based course management web application designed to manage courses and related academic data efficiently.
 
@@ -32,6 +32,7 @@ cd CourseManager_Maharshi_Pandya
 dotnet run
 ```
 - Make sure you’re in the directory containing the .csproj file.
+  
 
 ✅ Features
 
