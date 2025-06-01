@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CourseManager_Maharshi_Pandya.props" />
+</Project>

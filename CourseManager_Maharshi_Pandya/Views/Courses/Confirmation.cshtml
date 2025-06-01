@@ -1,0 +1,52 @@
+﻿@model ConfirmationResponseViewModel
+
+@{
+    ViewData["Title"] = "Confirmation response";
+}
+
+
+@if (@Model.ActiveCourse == null)
+{
+    <div class="alert-danger">There is no such course exit!</div>
+}
+else if (@Model.Student == null)
+{
+    <div class="alert-danger">There is no such student exit!</div>
+
+}
+else
+{
+
+
+    <h1>@ViewData["Title"]</h1>
+
+
+    <h3>
+
+        You have been invited to enroll in the "@Model.ActiveCourse.CourseName" course!
+    </h3>
+
+    <p>
+
+        Hey @Model.Student.StudentName, you have been invited to enroll in  "@Model.ActiveCourse.CourseName" in room @Model.ActiveCourse.RoomNumber staring on @Model.ActiveCourse.StartDate?.ToString("dd/MM/yyyy") with the instructor  @Model.ActiveCourse.InstructorName - we would be thrilled to have you join us but ask you to confirm your enrollment! . The instructor for this course is. Please confirm your enrollment by clicking the link below.
+
+
+    </p>
+
+    <form asp-action="EnrollCourseConfirmation" asp-route-studentId="@Model.Student.StudentID" asp-route-courseId="@Model.ActiveCourse.CourseID" method="post">
+
+        <fieldset>Do you want to enroll?</fieldset>
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <label>Yes</label>
+        <input type="radio" value="Yes" asp-for="@Model.Response" />
+
+        <label>No</label>
+        <input type="radio" value="No" asp-for="@Model.Response" />
+
+        <input type="hidden" name="StudentID" value="@Model.Student.StudentID" />
+        <input type="hidden" name="CourseID" value="@Model.ActiveCourse.CourseID" />
+
+        <input type="submit" value="Submit" class="btn btn-primary" />
+    </form>
+
+}

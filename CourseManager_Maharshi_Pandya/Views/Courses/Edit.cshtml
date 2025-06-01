@@ -1,0 +1,25 @@
+﻿@model CourseViewModel
+
+@{
+    ViewBag.Title = "Edit Course";
+}
+
+<h1>@ViewBag.Title</h1>
+
+<p>
+    <a asp-action="AllCourses">All Courses</a> |
+    <a asp-action="AddCourse">Add Course</a> |
+    <a asp-action="ManageCourse" asp-route-courseId="@Model.Course.CourseID">Manage this course</a>
+</p>
+
+<form method="post" asp-action="EditCourse">
+
+    <input type="hidden" asp-for="Course.CourseID" />
+
+    <partial name="_CourseFormPartial" model="@Model.Course" />
+    <input class="btn btn-info" type="submit" value="Save" />
+
+    <a class="btn btn-primary" role="button" asp-action="AllCourses">Cancel</a>
+
+</form>
+

@@ -1,0 +1,117 @@
+﻿@model ManageCourseViewModel
+@{
+    ViewData["Title"] = "Manage Course";
+
+    var enrollmentStatusMap = new Dictionary<EnrollmentConfirmationStatus, string>
+
+            {
+
+                [EnrollmentConfirmationStatus.ConfirmationMessageNotSent] = "Yet to invite",
+
+                [EnrollmentConfirmationStatus.ConfirmationMessageSent] = "Confirmation message sent! check your inbox!",
+
+                [EnrollmentConfirmationStatus.EnrollmentConfirmed] = "Confirmed, see you there!",
+
+                [EnrollmentConfirmationStatus.EnrollmentDeclined] = "Confirmation declined :("
+
+            };
+}
+
+@if (TempData.Keys.Contains("Message"))
+{
+
+    <div class="alert alert-@TempData["className"]" alert-dismissible fade show role="alert">
+        @TempData["Message"]
+
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+
+
+    </div>
+}
+
+<h1>@ViewData["Title"]</h1>
+<p>
+    <a asp-action="AllCourses">All Courses</a> |
+    <a asp-action="AddCourse">Add New Course</a> |
+    <a asp-action="EditCourse" asp-route-courseId="@Model.Course.CourseID">Edit This Course</a>
+</p>
+
+<h4>Course Summary</h4>
+<p>The Course "@Model.Course.CourseName" is in room @Model.Course.RoomNumber starting on @Model.Course.StartDate?.ToString("dd-MM-yyyy") and instructed by @Model.Course.InstructorName</p>
+
+<div class="row">
+    <div class="col-auto">Invites not sent: @Model.CountConfirmationMessageNotSent</div>
+    <div class="col-auto">Invites sent: @Model.CountConfirmationMessageSent</div>
+    <div class="col-auto">Confirmed: @Model.CountEnrollmentConfirmed</div>
+    <div class="col-auto">Denied: @Model.CountEnrollmentDeclined</div>
+</div>
+
+<br />
+
+<h4>Students:</h4>
+
+
+@if (Model.Course.Students.Count > 0)
+
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var guest in Model.Course.Students)
+
+            {
+                <tr>
+                    <td>@guest.StudentName</td>
+                    <td>@guest.StudentEmail</td>
+                    <td>@enrollmentStatusMap[guest.Status]</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+else
+{
+    <div class="alert alert-primary" role="alert">
+        No students found, please add one!
+    </div>
+}
+</br>
+<form class="row row-cols-lg-auto g-3 align-items-center" method="post" asp-action="AddStudent" asp-route-courseId="@Model.Course.CourseID">
+    <div class="col-auto">
+        <label class="form-label" asp-for="Student.StudentName">Name:</label>
+        <span class="text-danger" asp-validation-for="Student.StudentName"></span>
+    </div>
+
+    <div class="col-auto">
+        <input class="form-control" type="text" asp-for="Student.StudentName" />
+    </div>
+
+    <div class="col-auto">
+        <label class="form-label" asp-for="Student.StudentEmail">Email:</label>
+        <span class="text-danger" asp-validation-for="Student.StudentEmail"></span>
+    </div>
+
+    <div class="col-auto">
+        <input class="form-control" type="text" asp-for="Student.StudentEmail" />
+    </div>
+
+    <div class="col-auto">
+        <input class="btn btn-primary" type="submit" value="Add Student" />
+    </div>
+</form>
+
+</br>
+<h5>Actions: </h5>
+
+<form method="post" asp-action="EnrollStudent" asp-route-courseId="@Model.Course.CourseID">
+    <input class="btn btn-primary" type="submit" value="Send confirmation email" />
+</form>
+
+
