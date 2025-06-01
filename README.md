@@ -84,11 +84,6 @@ Yep, we notify students using Gmail SMTP. Configure your `appsettings.json` like
 
 ---
 
-## 🧠 Why This Exists
-
-Because education management shouldn't require a PhD in chaos. This app is built with maintainability, clarity, and user-friendliness in mind — and it just works™.
-
----
 
 
 
