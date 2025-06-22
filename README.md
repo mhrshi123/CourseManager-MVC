@@ -1,4 +1,4 @@
-````markdown
+
 # 📚 CourseManager MVC App
 
 Welcome to the **CourseManager MVC** app – your go-to portal for managing student enrollments without breaking a sweat (or a database). Whether you're wrangling course data or tracking student responses, this web app has your back like a well-placed semicolon.
